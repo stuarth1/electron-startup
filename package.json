@@ -8,21 +8,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/stuarth1/electron-startup"
-  },
-  "keywords": [
-    "Electron",
-    "API",
-    "startup"
-  ],
   "author": "Stuart Hunter",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/stuarth1/electron-startup"
-  },
-  "homepage": "https://github.com/stuarth1/electron-startup#readme",
   "dependencies": {
     "electron-json-storage": "^2.1.0",
     "electron-shortcut-normalizer": "^1.0.0"
